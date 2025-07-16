@@ -27,7 +27,7 @@ jobs:
 - type: import
   parameters:
     type: har
-    fileName: /root/AwesomeToDo/tmp/AwsomeToDo0716.har
+    fileName: /root/AwesomeToDo/tmp/AwesomeToDo.har
 - type: passiveScan-wait
   parameters: {}
 - type: activeScan
